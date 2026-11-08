@@ -1,7 +1,9 @@
 # Tarea_10_Mi_primer_documento_en_LaTeX
 
-**Materia:** Pensamiento de Ingeniería
-**Universidad Iberoamericana, Ciudad de México**
+**Materia:** $Pensamiento$ $de$ $Ingeniería$
+
+$Universidad$ $Iberoamericana$, $Ciudad$ $de$ $México$
+
 **Licenciatura en Ingeniería en Inteligencia Artificial**
 
  ## Descripción
@@ -18,7 +20,7 @@ Es el mismo documento de la Tarea 7, ahora escrito en LaTeX y con la bibliograf�
 
 ## Cómo compilarlo
 
-**En Overleaf:**
+$En$ $Overleaf:$
 
 1. Crea un proyecto nuevo
 2. Sube 3 archivos en Overleaf (.tex, .bib y la figura1.png).
