@@ -18,7 +18,7 @@ Es el mismo documento de la Tarea 7, ahora escrito en LaTeX y con la bibliograf�
 
 ## Cómo compilarlo
 
-**En Overleaf (lo más fácil):**
+**En Overleaf:**
 
 1. Crea un proyecto nuevo y sube los 4 archivos.
 2. Haz clic en **Recompile**.
