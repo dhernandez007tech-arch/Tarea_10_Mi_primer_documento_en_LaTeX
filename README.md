@@ -36,4 +36,4 @@ $En$ $Overleaf:$
 
 El PDF también está publicado en mi portafolio académico, en la sección de la Tarea 10:
 
-[Ver la Tarea 10 en el portafolio](https://dhernandez007tech-arch.github.io/Portafolio-Academico-Pensamiento-de-Ingenieria/tarea-10/)
+[Ver la Tarea 10 en el portafolio](https://dhernandez007tech-arch.github.io/Portafolio-Academico-Pensamiento-de-Ingenieria/tarea-10)
