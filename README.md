@@ -20,8 +20,11 @@ Es el mismo documento de la Tarea 7, ahora escrito en LaTeX y con la bibliograf√
 
 **En Overleaf:**
 
-1. Crea un proyecto nuevo y sube los 4 archivos.
-2. Haz clic en **Recompile**.
+1. Crea un proyecto nuevo
+2. Sube 3 archivos en Overleaf (.tex, .bib y la figura1.png).
+3. Haz clic en **Recompile**.
+4. Los 3 archivos generan una vista previa del PDF.
+5. Puedes descargar el PDF.
 
 ## Portafolio
 
