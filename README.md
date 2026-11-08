@@ -30,7 +30,7 @@ $En$ $Overleaf:$
 3. Elige `documento.tex` como documento principal. 
 4. Haz clic en `Recompile`. (Si las referencias no aparecen al final, vuelve a hacer clic)
 5. A la derecha se muestra la vista previa del PDF.
-6. Para descargarlo, haz clic en `Download PDF` que se encuentra al lado de la opción de `Recompile` o ve a `Menu` → `Download` → `PDF`.
+6. Para descargarlo, haz clic en `Download PDF` ***que se encuentra al lado de la opción*** `Recompile` o ve a `Menu` → `Download` → `PDF`.
 
 ## Portafolio
 
