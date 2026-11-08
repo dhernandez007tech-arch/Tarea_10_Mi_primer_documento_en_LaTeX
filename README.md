@@ -23,14 +23,14 @@ Es el mismo documento de la Tarea 7, ahora escrito en LaTeX y con la bibliograf�
 $En$ $Overleaf:$
 
 1. Crea un proyecto nuevo (**New Project** → **Blank Project**).
-2. $Descarga$ los 3 archivos y agrégalos en $Overleaf$ con el botón **Upload**:
+2. Descarga los 3 archivos y agrégalos en $Overleaf$ con el botón `Upload`:
    - `documento.tex`
    - `documento.bib`
    - `figura1.png`
 3. Elige `documento.tex` como documento principal. 
-4. Haz clic en **Recompile**. (Si las referencias no aparecen al final, vuelve a hacer clic)
+4. Haz clic en `Recompile`. (Si las referencias no aparecen al final, vuelve a hacer clic)
 5. A la derecha se muestra la vista previa del PDF.
-6. Para descargarlo, haz clic en **Download PDF** que se encuentra al lado de la opción de **Recompile** o ve a **Menu** → **Download** → **PDF**.
+6. Para descargarlo, haz clic en `Download PDF` que se encuentra al lado de la opción de `Recompile` o ve a `Menu` → `Download` → `PDF`.
 
 ## Portafolio
 
